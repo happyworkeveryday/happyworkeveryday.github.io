@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DrawCall和合批渲染</title>
+      <link>https://example.org/post/what_is_draw_call/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/post/what_is_draw_call/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Draw Call&amp;rdquo;（绘制调用）和 &amp;ldquo;Batch Rendering&amp;rdquo;（合批渲染）都是与图形渲染和图形编程相关的概念，通常在游戏开发和图形应用程序中被讨论。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
